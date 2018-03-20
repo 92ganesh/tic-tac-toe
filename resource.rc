@@ -1,0 +1,3 @@
+#include "resource.h"
+
+GAME_ICON ICON "res\\game.ico"

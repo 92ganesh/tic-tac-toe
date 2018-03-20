@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1497381357 source:e:\c++ programs\tic_tac\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cstdio>
+	"resource.h"
+	<conio.h>
+
+1497211204 e:\c++ programs\tic_tac\resource.h
+
+1497211204 source:e:\c++ programs\tic_tac\resource.rc
+	"resource.h"
+
+1520783777 source:e:\c++ programs\tic_tac\codechef.c
+	<stdio.h>
+
+1520783777 source:e:\c++ programs\tic_tac\test.c
+	<stdio.h>
+
